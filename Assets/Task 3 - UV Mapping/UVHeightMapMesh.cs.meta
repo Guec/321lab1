@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 48715e4aadd8d49b784c7aa93427995f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - heightMapTexture: {fileID: 2800000, guid: e0854dea6c8c2447199c3b6e56944052, type: 3}
+  - uvMapTexture: {fileID: 2800000, guid: e0854dea6c8c2447199c3b6e56944052, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
